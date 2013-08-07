@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="teste" path="/Users/dariooliveira/desenvolvimento/testes.xml">
+    <input>/Users/dariooliveira/desenvolvimento/testes.mhd</input>
+    <result>/Users/dariooliveira/desenvolvimento/testes2.mhd</result>
+    <info>tesdsfdsfsd</info>
+</project>
+<model>
+    <class name="Liver">
+        <class name="Vessels">
+            <class name="Hepatic Vein">
+                <class name="Hepatic 1"/>
+                <class name="Hepatic 2"/>
+                <class name="Hepatic 3"/>
+                <class name="Small Branches"/>
+            </class>
+            <class name="Portal Vein"/>
+            <class name="Unclassified Vessels"/>
+        </class>
+        <class name="Nodules and Fat"/>
+        <class name="Couinaud Regions">
+            <class name="Region 1"/>
+            <class name="Region 2"/>
+            <class name="Region 3"/>
+            <class name="Region 4-a"/>
+            <class name="Region 4-b"/>
+            <class name="Region 5"/>
+            <class name="Region 6"/>
+            <class name="Region 7"/>
+            <class name="Region 8"/>
+        </class>
+    </class>
+</model>
+<segments>
+    <segment id="2">
+        <max>186</max>
+        <mean>99.2311</mean>
+        <median>0</median>
+        <min>-9</min>
+    </segment>
+    <segment id="3">
+        <max>180</max>
+        <mean>100.892</mean>
+        <median>0</median>
+        <min>-13</min>
+    </segment>
+    <segment id="4">
+        <max>191</max>
+        <mean>106.683</mean>
+        <median>0</median>
+        <min>-50</min>
+    </segment>
+    <segment id="5">
+        <max>165</max>
+        <mean>107.043</mean>
+        <median>0</median>
+        <min>-11</min>
+    </segment>
+    <segment id="6">
+        <max>193</max>
+        <mean>98.6269</mean>
+        <median>0</median>
+        <min>-38</min>
+    </segment>
+    <segment id="7">
+        <max>190</max>
+        <mean>101.042</mean>
+        <median>0</median>
+        <min>-22</min>
+    </segment>
+    <segment id="8">
+        <max>179</max>
+        <mean>103.855</mean>
+        <median>0</median>
+        <min>-113</min>
+    </segment>
+    <segment id="9">
+        <max>176</max>
+        <mean>104.879</mean>
+        <median>0</median>
+        <min>-126</min>
+    </segment>
+    <segment id="11">
+        <max>189</max>
+        <mean>140.309</mean>
+        <median>0</median>
+        <min>128</min>
+    </segment>
+    <segment id="12">
+        <max>216</max>
+        <mean>144.289</mean>
+        <median>0</median>
+        <min>128</min>
+    </segment>
+    <segment id="13">
+        <max>217</max>
+        <mean>143.671</mean>
+        <median>0</median>
+        <min>111</min>
+    </segment>
+    <segment id="14">
+        <max>224</max>
+        <mean>151.254</mean>
+        <median>0</median>
+        <min>92</min>
+    </segment>
+    <segment id="15">
+        <max>227</max>
+        <mean>155.274</mean>
+        <median>0</median>
+        <min>118</min>
+    </segment>
+    <segment id="16">
+        <max>237</max>
+        <mean>156.58</mean>
+        <median>0</median>
+        <min>128</min>
+    </segment>
+    <segment id="17">
+        <max>114</max>
+        <mean>12.8722</mean>
+        <median>0</median>
+        <min>-92</min>
+    </segment>
+</segments>
